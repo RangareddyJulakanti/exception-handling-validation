@@ -1,0 +1,13 @@
+
+c	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(í‚¯úÿÿÿÿ
+c	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(„¯³úÿÿÿÿ
+^	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ˆòèè
+c	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(İ‰Áÿøÿÿÿÿ
+^	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(¶¿Íª
+c	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Èì¥¡şÿÿÿÿ
+c	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(şŞŸŞúÿÿÿÿ
+c	java:S119 "IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(½¹ıˆşÿÿÿÿ
+]
+java:S1128"GRemove this unused import 'com.jpmchase.core.data.jpa.base.EAuditable'.(³ûÏñ
+j
+java:S1128"ORemove this unused import 'org.springframework.data.repository.CrudRepository'.(Îê¶¬üÿÿÿÿ

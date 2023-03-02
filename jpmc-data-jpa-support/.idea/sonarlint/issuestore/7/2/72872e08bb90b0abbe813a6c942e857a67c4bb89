@@ -1,0 +1,26 @@
+
+f	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êıÏ
+k	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö€à™şÿÿÿÿ
+f	java:S117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü´¿ 
+f	java:S117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö›ˆŠ
+—
+java:S1186&"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡Å¦ó
+^	java:S119,"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(êıÏ
+c	java:S1193"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ö€à™şÿÿÿÿ
+^	java:S119:"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Ü´¿ 
+c	java:S119C"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(¹·œ²øÿÿÿÿ
+^	java:S119`"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ÕÖ±“
+^	java:S119g"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(‘–Ïğ
+c	java:S119n"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(£¶Ê§ÿÿÿÿÿ
+m
+java:S3776u"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(¥îğşÿÿÿÿ
+c	java:S119u"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(¥îğşÿÿÿÿ
+O
+java:S1128
+"4Remove this unused import 'java.time.ZonedDateTime'.(Å¯Ğ©ûÿÿÿÿ
+]
+java:S1128"GRemove this unused import 'com.jpmchase.core.data.jpa.base.EAuditable'.(³ûÏñ
+r
+java:S1128"WRemove this unused import 'org.springframework.dao.InvalidDataAccessApiUsageException'.(²‰ò•üÿÿÿÿ
+j
+java:S1128"ORemove this unused import 'org.springframework.data.repository.CrudRepository'.(Îê¶¬üÿÿÿÿ
